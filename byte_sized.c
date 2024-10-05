@@ -2,6 +2,9 @@
 #include <stdlib.h>
 // png library
 
+
+
+
 /*
 STEPS TO GO THROUGH:
 - read the png file
@@ -16,7 +19,7 @@ STEPS TO GO THROUGH:
 TO-DO:
 - convertToGrayscale(image, width, height)
 - convertImageToASCII(image, width, height)
-
+//HIIIII
 
 */
 

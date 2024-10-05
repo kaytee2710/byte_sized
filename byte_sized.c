@@ -24,7 +24,7 @@ const char *asciiChars = "@%#*+=-:. "; // Define the ASCII characters we're usin
 
 // Converts the .png image to greyscale to simplify the conversion process
 void convertToGrayscale(unsigned char *image, int width, int height) {
-
+    printf("Hello world\n");
 
 
 }
